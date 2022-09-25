@@ -9,3 +9,7 @@ run Pebble watchfaces and apps. Hopefully we can
 come up with something that will run PebbleOS,
 RebbleOS, and/or an OS that is built specifically
 for the 42Watch.
+
+Please join the discussion to share any ideas
+on hardware options:
+https://github.com/sethasaurus/42Watch/discussions/2
